@@ -39,5 +39,5 @@ I’m a Flutter Developer with over 5 years of experience, specializing in trans
 ### 📫 How to Reach Me
 
 - **Email**: guivinicius362@gmail.com
-- **LinkedIn**: [My LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/guilherme-vinicius-padilha-67744a157/))
+- **LinkedIn**: [Link](https://www.linkedin.com/in/guilherme-vinicius-padilha-67744a157/)
 - **Campinas, Brazil**
